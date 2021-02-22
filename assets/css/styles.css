@@ -213,10 +213,9 @@ img{
   color: var(--first-color);
 }
 .home__img{
-  position: absolute;
+  position: relative;
   right: 0;
   bottom: 0;
-  width: 295px;
 }
 
 /*BUTTONS*/
@@ -414,7 +413,7 @@ img{
     margin-right: var(--mb-4);
   }
   .home__img{
-    width: 457px;
+    
     bottom: 15%;
   }
 
@@ -445,6 +444,25 @@ img{
     margin-right: auto;
   }
   .home__img{
-    right: 10%;
+    right: 5%;
   }
+}
+.center {
+  text-align: center;
+  width: 50%;
+  margin: 20px auto;
+  
+}
+.s1, .s2, .s3, .s4, .s5, .s6 {
+  display: inline-block;
+  padding: 6px 6px 4px;
+  border-radius: 3px;
+  background: orange;
+  margin-right: -2px;
+  font-size: 22px;
+}
+.message {
+  color: orange;
+  font-family: Verdana;
+  font-size: 12px;
 }
