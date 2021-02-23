@@ -59,7 +59,7 @@ body{
   color: var(--second-color);
 }
 h1,h2,p{
-  margin: 0;
+  
 }
 ul{
   margin: 0;
@@ -72,7 +72,7 @@ a{
 img{
   max-width: 100%;
   height: auto;
-  display: block;
+  
 }
 
 /*===== CLASS CSS ===== */
@@ -315,6 +315,8 @@ img{
 .work__img img{
   transition: 1s;
   cursor: pointer;
+  height: 200px;
+  width: 100%;
 }
 .work__img img:hover{
   transform: scale(1.1);
@@ -466,3 +468,11 @@ img{
   font-family: Verdana;
   font-size: 12px;
 }
+
+.rounded-circle img-fluid{
+  position: relative;
+  right: 50px;
+  bottom: 100px;
+
+}
+
