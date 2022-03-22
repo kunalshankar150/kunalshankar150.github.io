@@ -83,7 +83,7 @@ class AppComponent {
             typeColor: 'black'
         });
         writer
-            .strings(400, "KUNAL", "Certified RPA Developer", "Full Stack Developer", "Machine Learning Enthusiast")
+            .strings(400, "Senior Software Engineer", "Full Stack Developer", "ML/AI Enthusiast")
             .start();
     }
 }
@@ -194,22 +194,22 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](68, "b", 38);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](69, "Fitchburg State University");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](70, ". Prior to that i have ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](70, ". I have ");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](71, "b", 38);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](72, "5 years");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](73, " of IT experience with ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](73, " of IT experience");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](74, "b", 38);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](75, "4 years");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](75, "working in ");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](76, " of Experience in Robotic Process Automation (RPA) in a ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](76, "IT Industry for a");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](77, "b", 38);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](78, "fortune 100");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](79, " company. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](80, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](81, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](82, " I believe that automation will bring a revolutionary change in how we live our lives and ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](82, "A motivated individual with in-depth knowledge of languages and development tools, seeking a position in a growth-oriented company where I can use my skills to the advantage of the company while having the scope to develop my own skills.");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](83, "b", 38);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](84, "RPA");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
