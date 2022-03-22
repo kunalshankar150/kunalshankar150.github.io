@@ -249,7 +249,7 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](120, "div", 47);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](121, "i", 48);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](122, "span", 49);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](123, "RPA(UiPath & Automation Anywhere)");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](123, "Java");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
@@ -279,7 +279,7 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](138, "div", 47);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](139, "i", 48);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](140, "span", 49);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](141, "Java");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](141, "RPA(UiPath & Automation Anywhere)");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
