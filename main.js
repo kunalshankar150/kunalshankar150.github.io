@@ -83,7 +83,7 @@ class AppComponent {
             typeColor: 'black'
         });
         writer
-            .strings(400, "Kunal", "Certified RPA Developer", "Full Stack Developer", "Machine Learning Enthusiast")
+            .strings(400, "KUNAL", "Certified RPA Developer", "Full Stack Developer", "Machine Learning Enthusiast")
             .start();
     }
 }
