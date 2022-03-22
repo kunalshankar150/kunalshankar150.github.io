@@ -199,13 +199,13 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](72, "5 years");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](73, " of IT experience");
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](75, " working in ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](74, " working in ");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](76, " IT Industry for a ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](75, " IT Industry for a ");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](77, "b", 38);
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](78, "fortune 100");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](76, "fortune 100");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](79, " company. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](77, " company. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](80, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](81, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](82, "A motivated individual with in-depth knowledge of languages and development tools, seeking a position in a growth-oriented company where I can use my skills to the advantage of the company while having the scope to develop my own skills.");
