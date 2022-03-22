@@ -188,7 +188,7 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](64, ". Currently, I am pursuing ");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](65, "u");
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](66, "Masters of Science in Computer Science with Data Science Concentration");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](66, "Masters of Science in Computer Science");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](67, " from ");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](68, "b", 38);
@@ -229,15 +229,15 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](102, "p", 44);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](103, " *An organized, detail-oriented, and conscientious self-starter, able to strategize and prioritize effectively to accomplish multiple tasks.");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](104, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](105, " *Over all 5 years of IT experience with 4 Years of Experience in Robotic Process Automation (RPA) in a fortune 100 company.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](105, " *Professional Team Leader and Angular/React/Java/AWS Full Stack Software Developer with having 5 years of experience in Fortune 100 companies - TIAA, Vertex Pharmaceuticals.");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](106, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](107, " *Experienced in a fast paced Agile Development Environment including Scrum, and Extreme Programming, Integration, Implementation and Maintenance.");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](108, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](109, " *Experience in building RPA(Robotics Process Automation) solutions using UiPath, Automation Anywhere.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](109, " *Experience in technologies/framework- Java/J2EE, Spring, Micro services, Hibernate, Angular 5, JavaScript, HTML, CSS, REST Web Service, XML, JSON, C#, Python.");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](110, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](111, " *Extensive Knowledge in UiPath, Automation Anywhere tool.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](111, " *Implemented and followed Agile development methodology within the cross-functional team and acted as a liaison between the business user group and the technical team. Lead the teams both On-shore and Off-shore teams to ensure the deliverables are smoothly achieved on time.");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](112, "br");
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](113, " *Experience in technologies/framework- Java/J2EE, Spring, Micro services, Hibernate, Angular 5, JavaScript, HTML, CSS, REST Web Service, XML, JSON, C#, Python.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](113, " *Experience in building RPA(Robotics Process Automation) bots using UiPath, Automation Anywhere.");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](114, "br");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](115, " *Experience in building Machine Learning models.");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelement"](116, "br");
