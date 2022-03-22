@@ -504,10 +504,10 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](286, "Phone: +1(857)268-8299");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](287, "h6");
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](288, "Email: kunalshankar150@gmail.com");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](288, "Email: kisampe1@student.fitchburgstate.edu");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](289, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](290, "\u00A9 2021 copyright all right reserved");
+        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](290, "\u00A9 2022 copyright all right reserved");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
