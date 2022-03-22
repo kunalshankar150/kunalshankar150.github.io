@@ -200,7 +200,6 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](73, " of IT experience");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](74, " working in ");
-        _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](75, " IT Industry for a ");
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵelementStart"](77, "b", 38);
         _angular_core__WEBPACK_IMPORTED_MODULE_2__["ɵɵtext"](76, "fortune 100");
